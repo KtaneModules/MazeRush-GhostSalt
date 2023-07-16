@@ -1,0 +1,10 @@
+{
+  "name": "GSMazeRush-Editor",
+  "references": [
+    "GSMazeRush"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
